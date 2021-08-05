@@ -27,14 +27,24 @@ Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'de
 
 - [Pratik3 - Kenarları Bilinen Üçgenin Alanını Hesaplayan Program](src/Pratikler/Pratik3.java)
 
-Ödev
+**Ödev**
 
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 
-Formül
+**Formül**
 
 Üç𝑔𝑒𝑛𝑖𝑛 ç𝑒𝑣𝑟𝑒𝑠𝑖 = 2𝑢
 
 𝑢 = (a+b+c) / 2
 
 Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
+
+- [Pratik4 - Taksimetre Programı](src/Pratikler/Pratik4.java)
+
+Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
+
+Taksimetre KM başına 2.20 TL tutmaktadır.
+
+Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır.
+
+Taksimetre açılış ücreti 10 TL'dir.
