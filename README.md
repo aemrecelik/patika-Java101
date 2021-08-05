@@ -59,6 +59,12 @@ Yarıçapı r, merkez açısısının ölçüsü 𝛼 olan daire diliminin alan�
 𝜋 sayısını = 3.14 alınız.
 
 Formül : (𝜋 * (r*r) * 𝛼) / 360
+- [Pratik6 - Hesap Makinası](src/Pratikler/Pratik6.java)
+
+**Ödev**
+
+Videodaki hesap makinesini switch-case kullanarak yapınız.
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
