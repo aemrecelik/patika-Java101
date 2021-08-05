@@ -3,7 +3,7 @@ bu repoda patika.dev üzerinde bulunan Java101 dersinin pratikleri ve ödevleri 
 
 ### Pratikler 
 
-- [Pratik1 - Not Ortalaması Hesaplayan Program](src/Pratikler/Pratik1)
+- [Pratik1 - Not Ortalaması Hesaplayan Program](src/Pratikler/Pratik1.java)
 
 Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
 
