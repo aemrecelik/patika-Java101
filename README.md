@@ -70,6 +70,20 @@ Videodaki hesap makinesini switch-case kullanarak yapınız.
 **Ödev**
 
 Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
+
+- [Pratik8 - Sınıfı Geçme Durumu](src/Pratikler/Pratik8.java)
+
+Java koşullu ifadeler ile kullanıcının not durumuna göre sınıfı geçme durumunu hesaplayan program yapımı.
+
+Dersler : Matematik, Fizik, Türkçe, Kimya, Müzik
+
+Geçme Notu : 55
+
+**Ödev**
+
+Eğer girilen ders notları 0 veya 100 arasında değil ise ortalamaya katılmasın.
+
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
