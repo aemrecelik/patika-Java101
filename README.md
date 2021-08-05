@@ -60,7 +60,7 @@ Yarıçapı r, merkez açısısının ölçüsü 𝛼 olan daire diliminin alan�
 
 Formül : (𝜋 * (r*r) * 𝛼) / 360
 
-- [Pratik6 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
+- [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
 Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıda ki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
 
