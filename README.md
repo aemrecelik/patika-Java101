@@ -65,7 +65,7 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
 
 Videodaki hesap makinesini switch-case kullanarak yapınız.
 
-- [Pratik7 - Kullanıcı Girişi](src/Pratikler/Pratik6.java)
+- [Pratik7 - Kullanıcı Girişi](src/Pratikler/Pratik7.java)
 
 **Ödev**
 
