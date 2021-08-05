@@ -11,7 +11,7 @@ Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının
 
 Not : If ve Else kullanılmayacak...
 
-- [Pratik1 - Not Ortalaması Hesaplayan Program](src/Pratikler/Pratik2.java)
+- [Pratik2 - KDV Tutarı Hesaplayan Program](src/Pratikler/Pratik2.java)
 
 Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
 
