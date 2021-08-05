@@ -65,6 +65,11 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
 
 Videodaki hesap makinesini switch-case kullanarak yapınız.
 
+- [Pratik7 - Kullanıcı Girişi](src/Pratikler/Pratik6.java)
+
+**Ödev**
+
+Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan programı yazınız.
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
