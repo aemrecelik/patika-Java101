@@ -140,7 +140,11 @@ Balık Burcu : 20 Şubat - 20 Mart
 
 Aynı örneği switch-case kullanmadan yapınız.
 
+- [Pratik12 - Girilen sayıya kadar olan 3 ve 4 e tam bölünen sayıların ortalaması](src/Pratikler/Pratik12.java)
 
+**Ödev**
+
+Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı yazınız.
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
