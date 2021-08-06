@@ -183,6 +183,12 @@ Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan program�
 Bir sayının basamak sayılarının toplamını hesaplayan program yazınız.
 
 Örnek : 1643 = 1 + 6 + 4 + 3 = 14
+- [Pratik18](src/Pratikler/Pratik18.java)
+
+**Ödev**
+
+Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
+
 
 
 ### Ödevler
