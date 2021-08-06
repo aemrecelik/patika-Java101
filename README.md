@@ -309,3 +309,8 @@ Klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve say
 
 Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sayıların) toplamı kendisine eşit olan sayıya mükemmel sayı denir.
 
+- [Ödev8 - Ters Üçgen Yapımı](src/Odevler/Odev8.java)
+
+Ters Üçgen Yapımı
+
+Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın.
