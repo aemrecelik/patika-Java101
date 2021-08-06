@@ -314,3 +314,7 @@ Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sa
 Ters Üçgen Yapımı
 
 Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen programı yazın.
+
+- [Ödev9 - 1 – 100 Arasındaki Asal Sayıları Bulan Program](src/Odevler/Odev9.java)
+
+Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran programı yazınız.
