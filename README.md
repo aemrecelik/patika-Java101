@@ -165,3 +165,5 @@ Domates : 1,11 TL
 Muz: 0,95 TL
 
 Patlıcan : 5,00 TL
+
+- [Ödev3 - Uçak Bileti Fiyatı Hesaplayan Program](src/Odevler/Odev3.java)
