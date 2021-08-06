@@ -170,7 +170,11 @@ _Kombinasyon formülü_
 
 C(n,r) = n! / (r! * (n-r)!)
 
+- [Pratik16](src/Pratikler/Pratik16.java)
 
+**Ödev**
+
+Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız.
 
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
