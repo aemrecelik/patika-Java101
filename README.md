@@ -176,6 +176,15 @@ C(n,r) = n! / (r! * (n-r)!)
 
 Java ile kullanıcının girdiği değerler ile üslü sayı hesaplayan programı "For Döngüsü" kullanarak yapınız.
 
+- [Pratik17](src/Pratikler/Pratik17.java)
+
+**Ödev**
+
+Bir sayının basamak sayılarının toplamını hesaplayan program yazınız.
+
+Örnek : 1643 = 1 + 6 + 4 + 3 = 14
+
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
