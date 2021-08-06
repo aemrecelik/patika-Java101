@@ -298,3 +298,14 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
 - [Ödev6 - Girilen Sayılardan Min ve Max Değerli Bulan Program](src/Odevler/Odev6.java)
 
 Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın.
+
+- [Ödev7 - Mükemmel Sayı Bulan Program](src/Odevler/Odev7.java)
+
+**Mükemmel Sayı Bulma**
+
+Klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve sayı mükemmel sayı ise ekrana “mükemmel sayıdır.” değilse “mükemmel sayı değildir.” ifadelerini ekrana yazan programı Java dilinde yazınız.
+
+**Mükemmel Sayı Nedir ?**
+
+Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sayıların) toplamı kendisine eşit olan sayıya mükemmel sayı denir.
+
