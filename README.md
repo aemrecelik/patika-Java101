@@ -189,7 +189,11 @@ Bir sayının basamak sayılarının toplamını hesaplayan program yazınız.
 
 Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
 
+- [Pratik19](src/Pratikler/Pratik19.java)
 
+**Ödev**
+
+Aynı projedeki ATM işlemlerini "Switch-Case" kullanarak yapınız.
 
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
