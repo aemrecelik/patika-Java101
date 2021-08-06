@@ -2,7 +2,7 @@ package Pratikler;
 
 import java.util.Scanner;
 
-public class Prartik11 {
+public class Pratik11 {
 
     public static void main(String[] args) {
         int gun, ay;
