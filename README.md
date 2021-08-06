@@ -195,6 +195,11 @@ Java'da döngüler kullanarak yıldızlar ile elmas yapınız.
 
 Aynı projedeki ATM işlemlerini "Switch-Case" kullanarak yapınız.
 
+- [Pratik20](src/Pratikler/Pratik20.java)
+
+**Ödev**
+
+Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
