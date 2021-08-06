@@ -102,7 +102,11 @@ Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
 
 Aynı örnek üzerinden if koşulları başka hangi şekilde oluşturulabilirdi farklı çözüm yolları bulunuz.
 
+- [Pratik10 - İf-Else ile Küçükten Büyüğe Sıralama](src/Pratikler/Pratik10.java)
 
+**Ödev**
+
+Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız.
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
