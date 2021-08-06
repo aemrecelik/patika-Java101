@@ -157,7 +157,7 @@ Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul
 
 Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
 
-- [Pratik14](src/Pratikler/Pratik14.java)
+- [Pratik15](src/Pratikler/Pratik15.java)
 
 **Ödev**
 
