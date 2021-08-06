@@ -294,3 +294,7 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır:
 Örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir.
 
 Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
+
+- [Ödev6 - Girilen Sayılardan Min ve Max Değerli Bulan Program](src/Odevler/Odev6.java)
+
+Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın.
