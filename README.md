@@ -151,6 +151,13 @@ Java döngüler ile 0'dan girilen sayıya kadar olan sayılardan 3 ve 4'e tam b�
 
 Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.
 
+- [Pratik14](src/Pratikler/Pratik14.java)
+
+**Ödev**
+
+Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
+
+
 
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
