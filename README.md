@@ -372,3 +372,7 @@ Fibonacci dizisi, 0'dan başlar ve sonsuza kadar. Her rakam, bir önceki rakamla
 - [Ödev11 - Üs Hesabı Yapan Program](src/Odevler/Odev11.java)
 
 Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan programı yazınız.
+
+- [Ödev12 - Recursive Metot ile Asal Sayılar](src/Odevler/Odev12.java)
+
+Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan programı yazın.
