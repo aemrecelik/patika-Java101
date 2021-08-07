@@ -213,6 +213,10 @@ Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan say
 
 Örnek: 1, 4, 8, 99, 101, 363, 4004, 9889....
 
+- [Pratik22 - Recursive ile Fibonacci Serisi](src/Pratikler/Pratik22.java)
+
+Java'da recursive metotlar ile fibonacci serisi bulan program yapıyoruz.
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
