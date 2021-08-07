@@ -217,7 +217,7 @@ Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan say
 
 Java'da recursive metotlar ile fibonacci serisi bulan program yapıyoruz.
 
-- [Pratik23 - Gelişmiş Hesap Makinası](src/Pratikler/Pratik22.java)
+- [Pratik23 - Gelişmiş Hesap Makinası](src/Pratikler/Pratik23.java)
 
 Java ile kullanıcın seçtiği işlemleri yapan hesap makinesi yapıyoruz.
 
