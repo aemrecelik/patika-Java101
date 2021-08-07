@@ -200,6 +200,19 @@ Aynı projedeki ATM işlemlerini "Switch-Case" kullanarak yapınız.
 **Ödev**
 
 Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
+
+- [Pratik21](src/Pratikler/Pratik21.java)
+
+_Palindrom Sayılar_
+
+Java ile bir sayının "Palindrom Sayı" olup olmadığını bulan bir program yapıyoruz.
+
+_Palindrom Sayı Nedir ?_
+
+Palindromik sayı, iki taraftan okunduğu zaman okunuş yönüyle aynı olan sayılardır.
+
+Örnek: 1, 4, 8, 99, 101, 363, 4004, 9889....
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
