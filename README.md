@@ -376,3 +376,9 @@ Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini 
 - [Ödev12 - Recursive Metot ile Asal Sayılar](src/Odevler/Odev12.java)
 
 Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan programı yazın.
+
+- [Ödev13 - Desene Göre Metot Oluşturma](src/Odevler/Odev13.java)
+
+Java dilinde kullanıcıdan alınan n değerine göre aşağıdaki kurala uyan döngü kullanmadan bir "Recursive" metot yazın.
+
+Kural : Girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 rakamını çıkarın. Her çıkarma işlemi sırasında ekrana son değeri yazdırın. Sayı negatif veya 0 olduktan sonra tekrar 5 ekleyin. Yine her ekleme işleminde sayının son değerini ekrana yazdırın.
