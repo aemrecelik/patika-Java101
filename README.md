@@ -250,6 +250,13 @@ Course sınıfına derse ait sözlü notu kısmını girin ve ortalamaya etkisin
 Öğrenci sözlüden 90, sınavdan 60 almış ise, o dersin genel ortalamaya etkisi şu şekilde hesaplanır :
 
 Fizik Ortalaması : (90 * 0.20) + (60* 0.80);
+
+- [Pratik25 - Boks Maçı](src/Pratikler/Pratik25)
+ 
+**Ödev**
+
+
+Projeye ilk kimin dövüşe başlayacağını %50 olasılık ile hesaplayan sistemi entegre ediniz.
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
