@@ -257,6 +257,16 @@ Fizik Ortalaması : (90 * 0.20) + (60* 0.80);
 
 
 Projeye ilk kimin dövüşe başlayacağını %50 olasılık ile hesaplayan sistemi entegre ediniz.
+
+- [Pratik26 - Harmonik Ortalama Hesaplayan Program](src/Pratikler/Pratik26.java)
+
+**Ödev**
+
+Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
+
+Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
+
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
