@@ -468,3 +468,8 @@ Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 
 
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
+
+- [Ödev15 - Sıralama](src/Odevler/Odev15.java)
+
+Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı yazınız. Dizinin boyutunu ve dizinin elemanlarını kullanıcıdan alınız.
+
