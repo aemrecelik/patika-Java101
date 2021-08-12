@@ -268,6 +268,10 @@ Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
 - [Pratik27](src/Pratikler/Pratik27.java)
 
 Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan programı yazınız.
+- [Pratik28](src/Pratikler/Pratik28.java)
+
+Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
