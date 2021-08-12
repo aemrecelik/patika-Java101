@@ -271,7 +271,7 @@ Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük
 - [Pratik28](src/Pratikler/Pratik28.java)
 
 Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
-
+- [Pratik29](src/Pratikler/Pratik29.java)
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
