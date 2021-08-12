@@ -265,8 +265,9 @@ Projeye ilk kimin dövüşe başlayacağını %50 olasılık ile hesaplayan sist
 Dizideki sayıların harmonik ortalamasını hesaplayan programı yazınız.
 
 Harmonik Ortalama formülü : n (eleman sayısı) / elemanların harmonik serisi
+- [Pratik27](src/Pratikler/Pratik27.java)
 
-
+Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük en yakın sayıyı bulan programı yazınız.
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
