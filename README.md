@@ -272,6 +272,12 @@ Dizideki elemanların girilen sayıdan küçük en yakın sayıyı ve en büyük
 
 Çok boyutlu diziler kullanılarak "yıldızlar" ile ekrana "B" harfi yazan programı yazınız.
 - [Pratik29](src/Pratikler/Pratik29.java)
+
+- [Pratik30](src/Pratikler/Pratik30.java)
+
+Java dilinde programın 0-100 arasında rastgele seçtiği bir sayıyı kullanıcının tahmin etmesini istediğimiz bir "Sayı Tahmin Oyunu" yapıyoruz.
+
+
 ### Ödevler
 - [Ödev1 - Vücut Kitle Endeksi Hesaplayan Program](src/Odevler/Odev1.java)
 
