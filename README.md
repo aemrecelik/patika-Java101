@@ -473,6 +473,10 @@ toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 
 Java dilinde, dizideki elemanları küçükten büyüğe sıralayan programı yazınız. Dizinin boyutunu ve dizinin elemanlarını kullanıcıdan alınız.
 
-- [Ödev15 - Tekrar Eden Sayılar](src/Odevler/Odev16.java)
+- [Ödev16 - Tekrar Eden Sayılar](src/Odevler/Odev16.java)
 
 Java dilinde, dizideki elemanların kaç kez tekrar edildiğini yani frekanslarını bulan programı yazınız.
+
+- [Ödev17 - Matris Transpoze](src/Odevler/Odev17.java)
+
+Java dilinde, çok boyutlu diziler ile oluşturulmuş matrisin transpozunu bulan programı yazınız.
